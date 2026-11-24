@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T18:12:31",
-  "count": 33,
+  "updatedAt": "2026-11-24T18:27:41",
+  "count": 34,
   "description": "股票监控名单（持仓 + 手动添加）。source: holding=持仓, manual=手动添加",
   "items": [
     {
@@ -166,6 +166,11 @@
     {
       "code": "US.LITE",
       "name": "Lumentum",
+      "source": "manual"
+    },
+    {
+      "code": "US.KO",
+      "name": "可口可乐",
       "source": "manual"
     }
   ]
