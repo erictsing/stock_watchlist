@@ -1,0 +1,172 @@
+{
+  "updatedAt": "2026-11-24T18:12:31",
+  "count": 33,
+  "description": "股票监控名单（持仓 + 手动添加）。source: holding=持仓, manual=手动添加",
+  "items": [
+    {
+      "code": "HK.00288",
+      "name": "万洲国际",
+      "source": "holding"
+    },
+    {
+      "code": "HK.00388",
+      "name": "香港交易所",
+      "source": "holding"
+    },
+    {
+      "code": "HK.00700",
+      "name": "腾讯控股",
+      "source": "holding"
+    },
+    {
+      "code": "HK.00939",
+      "name": "建设银行",
+      "source": "holding"
+    },
+    {
+      "code": "HK.00941",
+      "name": "中国移动",
+      "source": "holding"
+    },
+    {
+      "code": "HK.00981",
+      "name": "中芯国际",
+      "source": "holding"
+    },
+    {
+      "code": "HK.02269",
+      "name": "药明生物",
+      "source": "holding"
+    },
+    {
+      "code": "HK.02382",
+      "name": "舜宇光学科技",
+      "source": "holding"
+    },
+    {
+      "code": "HK.03466",
+      "name": "恒生高息股",
+      "source": "holding"
+    },
+    {
+      "code": "HK.06160",
+      "name": "百济神州",
+      "source": "holding"
+    },
+    {
+      "code": "HK.09992",
+      "name": "泡泡玛特",
+      "source": "holding"
+    },
+    {
+      "code": "US.AMZN",
+      "name": "亚马逊",
+      "source": "holding"
+    },
+    {
+      "code": "US.AVGO",
+      "name": "博通",
+      "source": "holding"
+    },
+    {
+      "code": "US.GOOGL",
+      "name": "谷歌-A",
+      "source": "holding"
+    },
+    {
+      "code": "US.IWM",
+      "name": "罗素2000ETF-iShares",
+      "source": "holding"
+    },
+    {
+      "code": "US.MSFT",
+      "name": "微软",
+      "source": "holding"
+    },
+    {
+      "code": "US.MU",
+      "name": "美光科技",
+      "source": "holding"
+    },
+    {
+      "code": "US.NBIS",
+      "name": "NEBIUS",
+      "source": "holding"
+    },
+    {
+      "code": "US.NVDA",
+      "name": "英伟达",
+      "source": "holding"
+    },
+    {
+      "code": "US.SNDK",
+      "name": "闪迪",
+      "source": "holding"
+    },
+    {
+      "code": "US.SOXX",
+      "name": "半导体ETF-iShares",
+      "source": "holding"
+    },
+    {
+      "code": "US.SPCX",
+      "name": "SpaceX",
+      "source": "holding"
+    },
+    {
+      "code": "US.TSLA",
+      "name": "特斯拉",
+      "source": "holding"
+    },
+    {
+      "code": "US.TSM",
+      "name": "台积电",
+      "source": "holding"
+    },
+    {
+      "code": "US.VOO",
+      "name": "标普500ETF-Vanguard",
+      "source": "holding"
+    },
+    {
+      "code": "US.VOOG",
+      "name": "标普500成长股ETF-Vanguard",
+      "source": "holding"
+    },
+    {
+      "code": "US.HIMS",
+      "name": "Hims & Hers Health",
+      "source": "manual"
+    },
+    {
+      "code": "US.XLF",
+      "name": "金融行业ETF-SPDR",
+      "source": "manual"
+    },
+    {
+      "code": "US.META",
+      "name": "Meta Platforms",
+      "source": "manual"
+    },
+    {
+      "code": "US.QQQ",
+      "name": "纳指100ETF-Invesco QQQ Trust",
+      "source": "manual"
+    },
+    {
+      "code": "US.XBI",
+      "name": "标普生物科技ETF-SPDR",
+      "source": "manual"
+    },
+    {
+      "code": "US.LABU",
+      "name": "三倍做多生物技术ETF-Direxion",
+      "source": "manual"
+    },
+    {
+      "code": "US.LITE",
+      "name": "Lumentum",
+      "source": "manual"
+    }
+  ]
+}
